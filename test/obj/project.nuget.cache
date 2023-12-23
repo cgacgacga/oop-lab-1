@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gIjFZbcMHjZ3BFPArKU2z/4ANRrjgM37r/0nNhI3rPnmgwVPcZpKYvlcO2kX95hiuqh8x3AGORFUmYYf73MAvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artem\\source\\repos\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

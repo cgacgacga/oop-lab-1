@@ -1,0 +1,8 @@
+﻿==== SONG ====
+
+song name / artist / album name / year / duration / genre
+
+==== GENRE ====
+
+g / genre  "if this genre is base"
+s / base genre / subgenre "if this genre is subgenre"

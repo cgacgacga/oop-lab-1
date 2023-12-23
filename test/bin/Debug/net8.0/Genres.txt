@@ -1,0 +1,4 @@
+﻿g / Rock
+s / Rock / Indie
+s / Rock / Alternative
+g / Pop
